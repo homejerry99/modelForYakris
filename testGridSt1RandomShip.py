@@ -157,7 +157,7 @@ ax.grid()
 ax.scatter(x,nList)
 plt.xlabel('试验次数')  # Add an x-label to the axes.
 plt.ylabel('试验完成时的射击次数')  # Add a y-label to the axes.
-plt.title('随机舰船分布时策略1下重复试验结果')  # Add a title to the axes.
+plt.title('随机的巡洋与航母时策略1下重复试验结果')  # Add a title to the axes.
 plt.legend()  # Add a legend.
 plt.show()
 

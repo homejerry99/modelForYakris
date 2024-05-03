@@ -1,2 +1,9 @@
 # modelForYakris
- some codes for a small modeling question
+
+some codes for a small modeling question
+
+这是对一道数学建模题目的代码尝试，此处用作记录总结（以及github使用的练习）
+
+整体基本上是很暴力的尝试用python模拟了一下 $10 \times 10$ 的棋格上的海战棋中玩家的行为。从最简单的无策略随机抽取到使用了一些简单策略的抽取，重复试验并计算玩家击沉所有舰船时的平均步数。（也尝试了能不能画出来一次试验中模拟玩家的具体行动（但是因为一些原因放弃了
+
+背景信息等等来自一道国内的数学建模题目。
