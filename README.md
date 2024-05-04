@@ -1,6 +1,6 @@
 # modelForYakris
 
-some codes for a small modeling question (No differential equations)
+##some codes for a small modeling question (No differential equations)
 
 这是对一道数学建模题目的代码尝试，此处用作记录总结（以及github使用的练习）
 
